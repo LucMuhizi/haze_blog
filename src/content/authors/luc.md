@@ -1,6 +1,6 @@
 ---
 title: Luc Muhizi
-image: /images/authors/john-doe.jpg
+image: /images/authors/luc.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Founder Director, Digital Technology and Research 
