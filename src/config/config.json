@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "HAZE Youth Blog",
-    "base_url": "https://haze-blog.vercel.app/",
+    "title": "Bookworm Light Astro | Blog Template",
+    "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon-32x32.png",
-    "logo": "/images/haze.jpg",
-    "logo_width": "130",
-    "logo_height": "134",
-    "logo_text": "HAZE Youth Blog"
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
   },
 
   "settings": {
@@ -17,13 +17,19 @@
   },
 
   "metadata": {
-    "meta_author": "Luc Muhizi",
-    "meta_image": "/images/favicon-32x32.png",
-    "meta_description": "HAZE Youth Blog"
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Bookworm Light Astro Blog Template"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023  Luc Muhizi  "
+    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "info@bookworm.org",
+    "phone": "+800 567 1234"
   }
 }
