@@ -5,7 +5,7 @@ description: "There is a lot to be said about youth but I would like to focus th
 date: 2022-11-09T05:00:00Z
 image: "/images/posts/tech.avif"
 categories: ["Social Media"]
-authors: ["Kwizera Mirielle"]
+authors: ["Mirielle Kwizera"]
 tags: ["Life"]
 draft: false
 ---

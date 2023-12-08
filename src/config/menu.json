@@ -1,12 +1,12 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Blogs",
       "url": "/"
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "https://hazeyouth.net/"
     },
     {
       "name": "Pages",
