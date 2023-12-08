@@ -5,53 +5,27 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "https://hazeyouth.net/"
+      "name": "Tags",
+      "url": "/tags"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
+      "name": "Authors",
+      "url": "/authors"
+    },
+    {
+      "name": "Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "HAZE Youth Main Page",
+      "url": "https://hazeyouth.net/"
+    },
+    
+    {
+      
     }
   ],
   "footer": [
-    {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
-    }
+    
   ]
 }

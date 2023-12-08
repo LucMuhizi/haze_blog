@@ -1,6 +1,6 @@
 ---
 title: Mirielle Kwizera
-image: /images/authors/john-doe.jpg
+image: https://i.postimg.cc/65yxVsPB/kwizy.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

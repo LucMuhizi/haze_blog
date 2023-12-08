@@ -1,6 +1,6 @@
 ---
 title: Luc Muhizi
-image: /images/authors/john-doe.jpg
+image: https://i.postimg.cc/KYyXy18Y/luc.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

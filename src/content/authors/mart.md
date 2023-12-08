@@ -1,6 +1,6 @@
 ---
 title: Marthe Nsaba
-image: /images/authors/john-doe.jpg
+image: https://i.postimg.cc/VktyTq1T/mart.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

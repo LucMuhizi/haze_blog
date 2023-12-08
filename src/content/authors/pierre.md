@@ -1,6 +1,6 @@
 ---
 title: Pierre Ntango
-image: /images/authors/john-doe.jpg
+image: https://i.postimg.cc/QC7ksdtX/pierre.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
