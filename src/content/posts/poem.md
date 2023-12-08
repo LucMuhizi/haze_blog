@@ -1,11 +1,15 @@
 ---
-title: "Peer Pressure"
-description: "There is a lot to be said about youth but I would like to focus this piece on negative pressure due to social media. Because of the advancement in technology, we have greater access to information, opportunities, networking, marketing, etc. Practically everything and anything can be accessed much faster and, naturally, we tend to expect things to be done quickly and faster. This ideal, of course, does not reflect real life and real living.
+title: "Ignite an Impact"
+description: "Life is a fountain of youth;
+Not quite everlasting;
+So don’t waste your life;
+Live it to the fullest;
+But don’t throw it all away.
 "
 date: 2022-11-09T05:00:00Z
-image: "https://i.ibb.co/SrYtVTY/youth.png"
-categories: ["Social Media"]
-authors: ["Mirielle Kwizera"]
+image: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240"
+categories: ["Life"]
+authors: ["Marthe Nsaba"]
 tags: ["Life"]
 draft: false
 ---
